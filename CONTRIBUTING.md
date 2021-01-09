@@ -1,35 +1,34 @@
-## The Goal
-Our goal is not to have the biggest list of everything available out there.
-Our goal is to have a list of things that anybody would have to learn if they were to enter the field today. 
+## 目标
 
-## Contributing
+我们的目标不是拥有最大的清单。我们的目标是列出任何人要进入该领域都必须学习的东西。
 
-Your contributions to this repo are always welcome!
-Bear in mind, that this repo is *highly opinionated*, *unbiased* and *curated*.
-Your opinion on value of any resource may not match the opinion of curator.
+## 贡献
 
-**Please make sure to open an issue to discuss before you open a PR!**
+始终欢迎您对此仓库做出贡献！请记住，此路线图是严谨、公正的。您对任何资源价值的意见可能与设计初衷的意见不符。
 
-## How are these roadmaps made?
+**在打开 PR 之前，请确保先打开问题进行讨论！**
 
-> Roadmaps are made using [Balsamiq](https://balsamiq.com/download/)
+## 这些路线图是如何制定的？
 
-* Clone the repository
-* Open Balsamiq, click <kbd>Project > Import > Mockup JSON</kbd>,
-* Copy and paste the JSON for the roadmap that you want to update
-* Add your changes
-* Export the JSON file <kbd>Project > Export > Mockup to JSON</kbd> and put it in the <kbd>src</kbd> directory
-* Export the image <kbd>Project > Export > Current Mockup to PNG</kbd> and put it in the <kbd>images</kbd> directory
-* Commits your changes and open a PR
+> 路线图使用的软件 [Balsamiq](https://balsamiq.com/download/)
 
-## Guidelines
+- 克隆存储库
+- 打开 Balsamiq，单击 <kbd>File > Import > Wireframes JSON</kbd>,
+- 复制并粘贴您要更新的路线图的 JSON(在 [src](./src) 目录中)
+- 添加您的更改
+- 导出 JSON 文件 <kbd>Project > Export > Wireframes to JSON</kbd> 并将其放在 src 目录中 <kbd>[src](./src)</kbd> directory
+- 导出图像 <kbd>Project > Export > Current Wireframes to PNG</kbd> 并将其放在 <kbd>[img](./img)</kbd> 目录中
+- 提交您的更改并打开 PR
 
-- <p><strong>Adding everything available out there is not the goal!</strong><br> 
-  The roadmap represents the skillset most valuable today i.e. if you were to enter any of the listed fields today, what would you learn! There might be things that are of-course being used today but prioritize the things that are most in demand today e.g. agreed that lots of people are using angular.js today but you wouldn't want to learn that instead of React, Angular or Vue. Use your critical thinking to filter out non-essential stuff. Give honest arguments for why the resource should be included.</p>
-- <p><strong>One item per Pull Request</strong><br>
-  There may be a discussion related to an item you want to add. Adding just a single item per pull request makes it much easier for everyone involved.</p>
-- Write meaningful commit messages
-- Look at the existing issues/pull requests before opening new ones
+## 指南
 
-## Note
-By contributing to this project, you agree to the terms listed in the [LICENSE](https://github.com/kamranahmedse/developer-roadmap/blob/master/LICENSE)
+- <p><strong>将可用的一切都添加到那里并不是目标！</strong><br> 
+  路线图代表了当今最有价值的技能组，即如果您今天要进入列出的任何领域，您将学到什么！可能今天会使用某些东西，但会优先考虑当今最需要的东西，例如，同意今天很多人都在使用angular.js，但是您不想学习它而不是React，Angular或Vue 。用批判性思维过滤掉不必要的东西。提出诚实的论点，说明为什么应包含该资源。</p>
+- <p><strong>每个pull关联一个issues</strong><br>
+  每个pull拉取请求仅对应一个issues，这样操作起来要容易规范得多。</p>
+- 编写有意义的 commit messages
+- 打开新 issues 或 pull 前先看看是不是已经有了相关的 issues/pull
+
+## 注意
+
+参与该项目，即表示您同意[LICENSE](https://github.com/kamranahmedse/developer-roadmap/blob/master/LICENSE)
