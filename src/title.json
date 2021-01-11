@@ -1,0 +1,63 @@
+{
+  "mockup": {
+      "controls": {
+          "control": [
+              {
+                  "ID": "0",
+                  "typeID": "Label",
+                  "zOrder": "0",
+                  "measuredW": "525",
+                  "measuredH": "80",
+                  "x": "243",
+                  "y": "75",
+                  "properties": {
+                      "text": "中国WEB开发者",
+                      "size": "72",
+                      "bold": "true"
+                  }
+              },
+              {
+                  "ID": "2",
+                  "typeID": "Canvas",
+                  "zOrder": "1",
+                  "w": "525",
+                  "h": "89",
+                  "measuredW": "100",
+                  "measuredH": "70",
+                  "x": "243",
+                  "y": "171",
+                  "properties": {
+                      "borderColor": "15486496",
+                      "color": "15486496"
+                  }
+              },
+              {
+                  "ID": "3",
+                  "typeID": "Label",
+                  "zOrder": "2",
+                  "measuredW": "337",
+                  "measuredH": "68",
+                  "x": "364",
+                  "y": "182",
+                  "properties": {
+                      "text": "路线图-2021",
+                      "size": "60",
+                      "color": "16777215",
+                      "bold": "true"
+                  }
+              }
+          ]
+      },
+      "attributes": {
+          "name": "New Wireframe 1",
+          "order": 1939567.4415576882
+      },
+      "branchID": "Master",
+      "resourceID": "A94BCCEE-2D7D-4CBC-937F-6B4C7C5E2460",
+      "mockupH": "185",
+      "mockupW": "525",
+      "measuredW": "768",
+      "measuredH": "260",
+      "version": "1.0"
+  }
+}
