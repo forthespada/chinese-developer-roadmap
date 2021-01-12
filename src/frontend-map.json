@@ -1720,11 +1720,11 @@
                     "ID": "60",
                     "typeID": "Arrow",
                     "zOrder": "60",
-                    "w": "130",
-                    "h": "213",
+                    "w": "99",
+                    "h": "249",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "428",
+                    "x": "458",
                     "y": "776",
                     "properties": {
                         "color": "2848996",
@@ -1732,16 +1732,16 @@
                         "direction": "bottom",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 129,
+                            "x": 99,
                             "y": 0
                         },
                         "p1": {
-                            "x": 0.5007550539904198,
-                            "y": 0.04527076398473655
+                            "x": 0.5007550539904196,
+                            "y": 0.045270763984736534
                         },
                         "p2": {
-                            "x": 0,
-                            "y": 212
+                            "x": 0.3003418953275627,
+                            "y": 249
                         },
                         "rightArrow": "false",
                         "stroke": "dotted"
@@ -1751,11 +1751,11 @@
                     "ID": "61",
                     "typeID": "Arrow",
                     "zOrder": "61",
-                    "w": "110",
-                    "h": "157",
+                    "w": "95",
+                    "h": "115",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "442",
+                    "x": "456",
                     "y": "769",
                     "properties": {
                         "color": "2848996",
@@ -1763,16 +1763,16 @@
                         "direction": "bottom",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 109,
+                            "x": 95,
                             "y": 0
                         },
                         "p1": {
                             "x": 0.46686783637115814,
-                            "y": 0.0018494634122600195
+                            "y": 0.0018494634122600108
                         },
                         "p2": {
-                            "x": 0,
-                            "y": 156
+                            "x": 0.3003418953275627,
+                            "y": 115
                         },
                         "rightArrow": "false",
                         "stroke": "dotted"
@@ -1782,11 +1782,11 @@
                     "ID": "62",
                     "typeID": "Arrow",
                     "zOrder": "62",
-                    "w": "119",
-                    "h": "120",
+                    "w": "91",
+                    "h": "76",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "434",
+                    "x": "461",
                     "y": "762",
                     "properties": {
                         "color": "2848996",
@@ -1794,16 +1794,16 @@
                         "direction": "bottom",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 118,
+                            "x": 91,
                             "y": 0
                         },
                         "p1": {
-                            "x": 0.46376334167874567,
-                            "y": -0.006127289497957557
+                            "x": 0.4637633416787457,
+                            "y": -0.006127289497957559
                         },
                         "p2": {
-                            "x": 0,
-                            "y": 119
+                            "x": 0.3003418953275627,
+                            "y": 76
                         },
                         "rightArrow": "false",
                         "stroke": "dotted"
@@ -1813,11 +1813,11 @@
                     "ID": "63",
                     "typeID": "Arrow",
                     "zOrder": "63",
-                    "w": "128",
-                    "h": "82",
+                    "w": "95",
+                    "h": "45",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "429",
+                    "x": "461",
                     "y": "751",
                     "properties": {
                         "color": "2848996",
@@ -1825,16 +1825,16 @@
                         "direction": "bottom",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 127,
+                            "x": 95,
                             "y": 0
                         },
                         "p1": {
-                            "x": 0.4682571775171856,
-                            "y": 0.0018196522442377747
+                            "x": 0.4682571775171855,
+                            "y": 0.0018196522442378198
                         },
                         "p2": {
-                            "x": 0,
-                            "y": 81
+                            "x": 0.3003418953275627,
+                            "y": 45
                         },
                         "rightArrow": "false",
                         "stroke": "dotted"
@@ -1844,11 +1844,11 @@
                     "ID": "64",
                     "typeID": "Arrow",
                     "zOrder": "64",
-                    "w": "123",
-                    "h": "34",
+                    "w": "95",
+                    "h": "4",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "429",
+                    "x": "456",
                     "y": "753",
                     "properties": {
                         "color": "2848996",
@@ -1856,16 +1856,16 @@
                         "direction": "bottom",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 122,
+                            "x": 95,
                             "y": 0
                         },
                         "p1": {
-                            "x": 0.4501850789844116,
+                            "x": 0.4501850789844115,
                             "y": 0.009280016683176094
                         },
                         "p2": {
-                            "x": 0,
-                            "y": 33
+                            "x": 0.3003418953275627,
+                            "y": 4
                         },
                         "rightArrow": "false",
                         "stroke": "dotted"
@@ -1940,7 +1940,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "432",
-                    "y": "579",
+                    "y": "565",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1970,7 +1970,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "430",
-                    "y": "661",
+                    "y": "647",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2001,7 +2001,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "434",
-                    "y": "651",
+                    "y": "637",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2032,7 +2032,7 @@
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "431",
-                    "y": "628",
+                    "y": "614",
                     "properties": {
                         "color": "2848996",
                         "curvature": "0",
@@ -2121,7 +2121,7 @@
                     "measuredW": "200",
                     "measuredH": "140",
                     "x": "160",
-                    "y": "559",
+                    "y": "545",
                     "properties": {
                         "color": "16770457"
                     }
@@ -2134,7 +2134,7 @@
                     "measuredW": "116",
                     "measuredH": "25",
                     "x": "214",
-                    "y": "566",
+                    "y": "552",
                     "properties": {
                         "size": "17",
                         "text": "学习HTML基础"
@@ -2149,7 +2149,7 @@
                     "measuredW": "200",
                     "measuredH": "140",
                     "x": "160",
-                    "y": "606",
+                    "y": "592",
                     "properties": {
                         "color": "16770457"
                     }
@@ -2162,7 +2162,7 @@
                     "measuredW": "167",
                     "measuredH": "25",
                     "x": "215",
-                    "y": "614",
+                    "y": "600",
                     "properties": {
                         "size": "17",
                         "text": "写一个语义化的HTML"
@@ -2177,7 +2177,7 @@
                     "measuredW": "200",
                     "measuredH": "140",
                     "x": "160",
-                    "y": "652",
+                    "y": "638",
                     "properties": {
                         "color": "16770457"
                     }
@@ -2191,7 +2191,7 @@
                     "measuredW": "200",
                     "measuredH": "140",
                     "x": "160",
-                    "y": "699",
+                    "y": "685",
                     "properties": {
                         "color": "16770457"
                     }
@@ -2204,7 +2204,7 @@
                     "measuredW": "120",
                     "measuredH": "25",
                     "x": "212",
-                    "y": "706",
+                    "y": "692",
                     "properties": {
                         "size": "17",
                         "text": "惯例和最佳实践"
@@ -2423,7 +2423,7 @@
                     "measuredW": "200",
                     "measuredH": "140",
                     "x": "160",
-                    "y": "761",
+                    "y": "735",
                     "properties": {
                         "color": "16770457"
                     }
@@ -2436,7 +2436,7 @@
                     "measuredW": "139",
                     "measuredH": "25",
                     "x": "200",
-                    "y": "768",
+                    "y": "742",
                     "properties": {
                         "size": "17",
                         "text": "JS基础语法和结构"
@@ -2451,7 +2451,7 @@
                     "measuredW": "200",
                     "measuredH": "140",
                     "x": "160",
-                    "y": "807",
+                    "y": "781",
                     "properties": {
                         "color": "16770457"
                     }
@@ -2464,7 +2464,7 @@
                     "measuredW": "108",
                     "measuredH": "25",
                     "x": "211",
-                    "y": "815",
+                    "y": "789",
                     "properties": {
                         "size": "17",
                         "text": "学习DOM操作"
@@ -2479,7 +2479,7 @@
                     "measuredW": "200",
                     "measuredH": "140",
                     "x": "160",
-                    "y": "951",
+                    "y": "965",
                     "properties": {
                         "color": "16770457"
                     }
@@ -2492,7 +2492,7 @@
                     "measuredW": "201",
                     "measuredH": "25",
                     "x": "185",
-                    "y": "996",
+                    "y": "1010",
                     "properties": {
                         "size": "17",
                         "text": "变量提升,事件冒泡, 作用域,"
@@ -2506,7 +2506,7 @@
                     "measuredW": "222",
                     "measuredH": "25",
                     "x": "187",
-                    "y": "1025",
+                    "y": "1039",
                     "properties": {
                         "size": "17",
                         "text": "原型, Shadow DOM, 严苛模式"
@@ -2520,7 +2520,7 @@
                     "measuredW": "68",
                     "measuredH": "25",
                     "x": "208",
-                    "y": "966",
+                    "y": "980",
                     "properties": {
                         "size": "17",
                         "text": "理解概念"
@@ -2535,7 +2535,7 @@
                     "measuredW": "200",
                     "measuredH": "140",
                     "x": "160",
-                    "y": "854",
+                    "y": "868",
                     "properties": {
                         "color": "16770457"
                     }
@@ -2548,7 +2548,7 @@
                     "measuredW": "213",
                     "measuredH": "25",
                     "x": "192",
-                    "y": "862",
+                    "y": "876",
                     "properties": {
                         "size": "17",
                         "text": "学习 Fetch API / Ajax (XHR)"
@@ -2563,7 +2563,7 @@
                     "measuredW": "200",
                     "measuredH": "140",
                     "x": "160",
-                    "y": "902",
+                    "y": "916",
                     "properties": {
                         "color": "16770457"
                     }
@@ -2576,7 +2576,7 @@
                     "measuredW": "201",
                     "measuredH": "25",
                     "x": "192",
-                    "y": "910",
+                    "y": "924",
                     "properties": {
                         "size": "17",
                         "text": "ES6+ 和模块化 JavaScript"
@@ -2661,7 +2661,7 @@
                     "measuredW": "85",
                     "measuredH": "25",
                     "x": "215",
-                    "y": "659",
+                    "y": "645",
                     "properties": {
                         "size": "17",
                         "text": "表单和验证"
@@ -2686,14 +2686,14 @@
                     "typeID": "Label",
                     "zOrder": "115",
                     "w": "75",
-                    "measuredW": "63",
+                    "measuredW": "51",
                     "measuredH": "25",
                     "x": "628",
                     "y": "462",
                     "properties": {
                         "bold": "true",
                         "size": "17",
-                        "text": "Internet"
+                        "text": "互联网"
                     }
                 },
                 {
@@ -2941,8 +2941,8 @@
                     "w": "155",
                     "measuredW": "108",
                     "measuredH": "25",
-                    "x": "553",
-                    "y": "995",
+                    "x": "560",
+                    "y": "996",
                     "properties": {
                         "bold": "true",
                         "size": "17",
@@ -3011,10 +3011,10 @@
                     "ID": "142",
                     "typeID": "Label",
                     "zOrder": "138",
-                    "w": "279",
+                    "w": "245",
                     "measuredW": "150",
                     "measuredH": "23",
-                    "x": "917",
+                    "x": "951",
                     "y": "923",
                     "properties": {
                         "size": "15",
@@ -3054,14 +3054,14 @@
                     "ID": "145",
                     "typeID": "Label",
                     "zOrder": "141",
-                    "w": "292",
-                    "measuredW": "256",
+                    "w": "303",
+                    "measuredW": "300",
                     "measuredH": "23",
                     "x": "541",
                     "y": "922",
                     "properties": {
                         "size": "15",
-                        "text": "什么是版本控制？为什么你应该用它？"
+                        "text": "什么是版本控制？为什么需要学习其中一种？"
                     }
                 },
                 {
@@ -3085,7 +3085,7 @@
                     "w": "68",
                     "measuredW": "51",
                     "measuredH": "25",
-                    "x": "563",
+                    "x": "580",
                     "y": "1258",
                     "properties": {
                         "bold": "true",
@@ -7905,7 +7905,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "552",
+                    "y": "538",
                     "properties": {
                         "color": "16777215",
                         "icon": {
@@ -7921,7 +7921,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "552",
+                    "y": "538",
                     "properties": {
                         "color": "10027263",
                         "icon": {
@@ -7937,7 +7937,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "647",
+                    "y": "633",
                     "properties": {
                         "color": "16777215",
                         "icon": {
@@ -7953,7 +7953,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "647",
+                    "y": "633",
                     "properties": {
                         "color": "10027263",
                         "icon": {
@@ -7969,7 +7969,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "690",
+                    "y": "676",
                     "properties": {
                         "color": "16777215",
                         "icon": {
@@ -7985,7 +7985,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "690",
+                    "y": "676",
                     "properties": {
                         "color": "10027263",
                         "icon": {
@@ -8047,7 +8047,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "601",
+                    "y": "587",
                     "properties": {
                         "color": "16777215",
                         "icon": {
@@ -8063,7 +8063,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "601",
+                    "y": "587",
                     "properties": {
                         "color": "10066329",
                         "icon": {
@@ -8271,7 +8271,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "753",
+                    "y": "727",
                     "properties": {
                         "color": "16777215",
                         "icon": {
@@ -8287,7 +8287,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "753",
+                    "y": "727",
                     "properties": {
                         "color": "10027263",
                         "icon": {
@@ -8303,7 +8303,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "802",
+                    "y": "776",
                     "properties": {
                         "color": "16777215",
                         "icon": {
@@ -8319,7 +8319,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "802",
+                    "y": "776",
                     "properties": {
                         "color": "10027263",
                         "icon": {
@@ -8335,7 +8335,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "849",
+                    "y": "863",
                     "properties": {
                         "color": "16777215",
                         "icon": {
@@ -8351,7 +8351,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "152",
-                    "y": "849",
+                    "y": "863",
                     "properties": {
                         "color": "10027263",
                         "icon": {
@@ -8367,7 +8367,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "151",
-                    "y": "895",
+                    "y": "909",
                     "properties": {
                         "color": "16777215",
                         "icon": {
@@ -8383,7 +8383,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "151",
-                    "y": "895",
+                    "y": "909",
                     "properties": {
                         "color": "10027263",
                         "icon": {
@@ -8399,7 +8399,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "151",
-                    "y": "947",
+                    "y": "961",
                     "properties": {
                         "color": "16777215",
                         "icon": {
@@ -8415,7 +8415,7 @@
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "151",
-                    "y": "947",
+                    "y": "961",
                     "properties": {
                         "color": "10027263",
                         "icon": {
@@ -12084,6 +12084,187 @@
                             "ID": "check-circle",
                             "size": "small"
                         }
+                    }
+                },
+                {
+                    "ID": "709",
+                    "typeID": "TextArea",
+                    "zOrder": "687",
+                    "w": "145",
+                    "h": "40",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "931",
+                    "y": "1681",
+                    "properties": {
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "710",
+                    "typeID": "Label",
+                    "zOrder": "688",
+                    "w": "68",
+                    "measuredW": "48",
+                    "measuredH": "25",
+                    "x": "970",
+                    "y": "1688",
+                    "properties": {
+                        "size": "17",
+                        "text": "jquery"
+                    }
+                },
+                {
+                    "ID": "711",
+                    "typeID": "Arrow",
+                    "zOrder": "689",
+                    "w": "84",
+                    "h": "134",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "850",
+                    "y": "1705",
+                    "properties": {
+                        "color": "10027263",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 83.30034189532762,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.4871636251159914,
+                            "y": -0.18836993504485008
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 134
+                        },
+                        "rightArrow": "false",
+                        "stroke": "dotted"
+                    }
+                },
+                {
+                    "ID": "712",
+                    "typeID": "Icon",
+                    "zOrder": "690",
+                    "measuredW": "24",
+                    "measuredH": "24",
+                    "x": "927",
+                    "y": "1672",
+                    "properties": {
+                        "color": "16777215",
+                        "icon": {
+                            "ID": "circle",
+                            "size": "small"
+                        }
+                    }
+                },
+                {
+                    "ID": "714",
+                    "typeID": "Icon",
+                    "zOrder": "691",
+                    "measuredW": "24",
+                    "measuredH": "24",
+                    "x": "927",
+                    "y": "1672",
+                    "properties": {
+                        "color": "10027263",
+                        "icon": {
+                            "ID": "check-circle",
+                            "size": "small"
+                        }
+                    }
+                },
+                {
+                    "ID": "720",
+                    "typeID": "TextArea",
+                    "zOrder": "692",
+                    "w": "298",
+                    "h": "40",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "158",
+                    "y": "824",
+                    "properties": {
+                        "color": "16770457"
+                    }
+                },
+                {
+                    "ID": "721",
+                    "typeID": "Label",
+                    "zOrder": "693",
+                    "w": "147",
+                    "measuredW": "176",
+                    "measuredH": "25",
+                    "x": "197",
+                    "y": "831",
+                    "properties": {
+                        "size": "17",
+                        "text": "javascript面向对象编程"
+                    }
+                },
+                {
+                    "ID": "722",
+                    "typeID": "Icon",
+                    "zOrder": "694",
+                    "measuredW": "24",
+                    "measuredH": "24",
+                    "x": "152",
+                    "y": "817",
+                    "properties": {
+                        "color": "16777215",
+                        "icon": {
+                            "ID": "circle",
+                            "size": "small"
+                        }
+                    }
+                },
+                {
+                    "ID": "723",
+                    "typeID": "Icon",
+                    "zOrder": "695",
+                    "measuredW": "24",
+                    "measuredH": "24",
+                    "x": "152",
+                    "y": "817",
+                    "properties": {
+                        "color": "10027263",
+                        "icon": {
+                            "ID": "check-circle",
+                            "size": "small"
+                        }
+                    }
+                },
+                {
+                    "ID": "724",
+                    "typeID": "Arrow",
+                    "zOrder": "696",
+                    "w": "110",
+                    "h": "157",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "452",
+                    "y": "779",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "0",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 109,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.46686783637115814,
+                            "y": 0.0018494634122600195
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 156
+                        },
+                        "rightArrow": "false",
+                        "stroke": "dotted"
                     }
                 }
             ]
