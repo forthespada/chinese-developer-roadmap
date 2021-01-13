@@ -1,35 +1,33 @@
 <!--
-Please do not remove anything written below.
- 
-Fill the details and open the issue. Any issue that 
-doesn't have all of these filled in will be closed, 
-if yours is closed reopen with everything filled in.  
+请不要删除下面写的任何内容。
+填写详细信息并打开问题。任何问题
+没有填写所有这些，会被关闭，
+如果你的关闭了，请重新打开issue并按照模板填写所有的东西。
 -->
 
-#### What roadmap is this issue about?
+#### 这个问题是关于什么路线图的？
 
-- [ ] Frontend Roadmap
-- [ ] Backend Roadmap
-- [ ] DevOps Roadmap
-- [ ] All Roadmaps
+- [ ] Frontend 前端路线图
+- [ ] Backend 后端路线图
+- [ ] DevOps 运维路线图
+- [ ] 所有路线图
 
-#### What is this issue about?
+#### 这个问题是关于什么的？
 
-- [ ] Discussion for a pull request I would want to open.
-- [ ] Addition of a new item
-- [ ] Removal of some existing item
-- [ ] Changing in arrangement
-- [ ] General suggestion
-- [ ] Sharing an Idea
-- [ ] Something else
+- [ ] 讨论我想要打开的请求。
+- [ ] 添加新项目
+- [ ] 删除某些现有项目
+- [ ] 改变安排
+- [ ] 一般建议
+- [ ] 分享想法
+- [ ] 其他东西
 
-#### Please acknowledge the below listed
+#### 请确认下列各项
 
-- [ ] This is not a duplicate issue. I have searched and there is no existing issue for this.
-- [ ] I understand that these roadmaps are highly opinionated. The purpose is to not to include everything out there in these roadmaps but to have everything that is most relevant today comparing to the other options listed.
-- [ ] I have read the [contribution docs](../contributing.md) before opening this issue.
+- [ ] 这不是重复问题。我已经搜索过了，没有这个问题。
+- [ ] 我知道这些路线图是经过深思熟虑的。这样做的目的不是要在这些路线图中包含所有内容，而是要将当前最相关的内容与列出与其他选项进行比较。
+- [ ] 打开此问题之前，我已阅读 [contribution docs](../CONTRIBUTING.md) .
 
+#### 在此处输入有关该问题的详细信息
 
-#### Enter the details about the issue here
-
-<!-- Please enter the issue details here -->
+<!-- 请在此处输入问题详细信息 -->
