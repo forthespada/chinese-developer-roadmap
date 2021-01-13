@@ -2071,14 +2071,14 @@
                     "ID": "72",
                     "typeID": "Label",
                     "zOrder": "72",
-                    "measuredW": "145",
+                    "measuredW": "209",
                     "measuredH": "40",
                     "x": "624",
                     "y": "273",
                     "properties": {
                         "bold": "true",
                         "size": "32",
-                        "text": "Front-end"
+                        "text": "Front-end前端"
                     }
                 },
                 {
