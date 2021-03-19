@@ -1,5 +1,9 @@
 ![chinese Web Developer Roadmap - 2021](./img/title.png)
 
+## :loudspeaker::loudspeaker::loudspeaker:公告
+
+## 更新计划：应广大网友诉求，提供列表式地图和相应学习资源。如有推荐优质资源，请在 issue 中发起。
+
 > 2021 年成为 web 开发人员路线图
 
 <!--
@@ -10,21 +14,6 @@
 -->
 
 首先感谢<a href="https://github.com/kamranahmedse">kamranahmedse</a>制作的英文版思维导图，由于中国大陆开发环境和国外不大一样，所以制作一份中国版 web 开发者路线图。
-下面是他在 youtube（网络问题自行解决） 制作的介绍视频，这些视频展示了您可以采用的路径以及要成为前端，后端或开发者所要采用的技术。
-
----
-
-<p align="center">
-		<sup>特别声明：</sup>
-		<br>
-		<a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
-			<img width="70px" src="https://roadmap.sh/sponsors/youtube.svg">
-		</a>
-		<br>
-		<sub><b>我们现在有一个YouTube频道，</b></sub>
-		<br>
-		<sub>我计划在其中介绍路线图，并在其中放置更多内容订阅频道。<br><a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">你可以订阅这个频道</a>。</sub>
-</p>
 
 ---
 
