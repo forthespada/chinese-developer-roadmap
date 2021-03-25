@@ -1,13 +1,15 @@
-## Roadmap 2021
+## 路线图 2021
 
-### General Updates
+### 普通更新
+
+- 所有路线图徽章修改，以便打印黑白时可以分辨
 - Added printable PDFs for the roadmaps: [Frontend Roadmap](https://roadmap.sh/roadmaps/pdf/frontend.pdf), [Backend Roadmap](https://roadmap.sh/roadmaps/pdf/backend.pdf), [DevOps Roadmap](https://roadmap.sh/roadmaps/pdf/devops.pdf)
 - Updated [the license](https://github.com/kamranahmedse/developer-roadmap/blob/master/LICENSE) with some additional details
 - Added the missing code-of-conduct, issue/pr templates.
 - Better legends in roadmaps.
 - Updated the disclaimers on the roadmap.
 
-### Frontend Developer Roadmap
+### 前端开发路线图
 
 - Recommended knowledge of the internet has been added
 - Added section for VCS in the roadmap
@@ -28,7 +30,8 @@
 - Updates description for WASM
 - Carlo and proton-native have been grayed out from the "Desktop applications"
 
-### Backend Developer Roadmap
+### 后端开发路线图
+
 - The [old textual look](https://github.com/kamranahmedse/developer-roadmap/tree/347831feaed227f42525e829ccc8d84a22386952#back-end-roadmap) has been gone and the tree has been made thorough. Beginner friendly textual format will be added soon [to the website](https://roadmap.sh)
 - Recommended knowledge of the internet has been added
 - Added basic frontend knowledge
@@ -44,7 +47,7 @@
 - GraphQL has been added
 - New section has been added "Building for Scale"
 
-### DevOps Roadmap
+### 运维路线图
 
 - Adds Networking Concepts and POSIX Basics in OS Concepts
 - Expands the Operating Systems
@@ -63,16 +66,19 @@
 - Fixes typos
 
 ## Roadmap 2019
-* [Frontend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/347831feaed227f42525e829ccc8d84a22386952#frontend-roadmap)
-* [Backend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/347831feaed227f42525e829ccc8d84a22386952#back-end-roadmap)
-* [DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/347831feaed227f42525e829ccc8d84a22386952#devops-roadmap)
+
+- [Frontend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/347831feaed227f42525e829ccc8d84a22386952#frontend-roadmap)
+- [Backend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/347831feaed227f42525e829ccc8d84a22386952#back-end-roadmap)
+- [DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/347831feaed227f42525e829ccc8d84a22386952#devops-roadmap)
 
 ## Roadmap 2018
-* [Frontend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/67a72aab113e79c11e292ada394606f079f6a263#-frontend-roadmap)
-* [Backend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/67a72aab113e79c11e292ada394606f079f6a263#-back-end-roadmap)
-* [DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/67a72aab113e79c11e292ada394606f079f6a263#-devops-roadmap)
+
+- [Frontend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/67a72aab113e79c11e292ada394606f079f6a263#-frontend-roadmap)
+- [Backend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/67a72aab113e79c11e292ada394606f079f6a263#-back-end-roadmap)
+- [DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/67a72aab113e79c11e292ada394606f079f6a263#-devops-roadmap)
 
 ## Roadmap 2017
-* [Frontend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/ee2b3e5de0e2a9ccccf3f2bbe4687f150df976f4#-front-end-roadmap)
-* [Backend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/ee2b3e5de0e2a9ccccf3f2bbe4687f150df976f4#-back-end-roadmap)
-* [DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/ee2b3e5de0e2a9ccccf3f2bbe4687f150df976f4#-devops-roadmap)
+
+- [Frontend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/ee2b3e5de0e2a9ccccf3f2bbe4687f150df976f4#-front-end-roadmap)
+- [Backend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/ee2b3e5de0e2a9ccccf3f2bbe4687f150df976f4#-back-end-roadmap)
+- [DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap/tree/ee2b3e5de0e2a9ccccf3f2bbe4687f150df976f4#-devops-roadmap)
